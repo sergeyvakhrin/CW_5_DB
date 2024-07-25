@@ -11,9 +11,25 @@ class Employee:
     url: str
     alternate_url: str
     vacancies_url: str
-    open_vacancies: int
+    open_vacancies: int | str
 
-    def get_vacansies(self) -> list:
+    def get_employres(self, employers) -> list:
+        """ Получение спаска экземпляров Класса Работодателей """
+        employers_list: list = []
+        for employer in employers:
+            if isinstance(employer, dict):
+                employers_list.append(Employee(employee_id=employer.get('id', "Не задано"),
+                                               name=employer.get('name', "Не задано"),
+                                               url=employer.get('url', "Не задано"),
+                                               alternate_url=employer.get('alternate_url', "Не задано"),
+                                               vacancies_url=employer.get('vacancies_urlid', "Не задано"),
+                                               open_vacancies=employer.get('open_vacancie', "Не задано")))
+            else:
+                continue
+        return employers_list
+
+    def get_vacansies(self) -> list[dict]:
+        """ Отдает список вакансий работодателя """
         api_request = HH(self.vacancies_url)
         vacancies_list = api_request.get_api()
         return vacancies_list
