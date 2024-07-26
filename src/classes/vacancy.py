@@ -4,7 +4,8 @@ from dataclasses import dataclass
 @dataclass
 class Vacancy:
     """ Класс для работы с вакансиями """
-    id_vac: str
+    employee_id: str
+    vacancy_id: str
     name: str
     requirement: str
     responsibility: str
