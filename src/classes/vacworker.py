@@ -9,18 +9,23 @@ class VacWorker:
     def get_vacancies(self, employee, vacancies: list) -> list:
         """ Получение спаска экземпляров Класса Вакансий """
         self.employee_id = employee.employee_id
-        vacancies_list: list = []
+        self.vacancies_list: list = []
+
         for vacancy in vacancies:
 
-                vacancy_id = vacancy.get("id", "Не задано")
-                name = vacancy.get("name", "Не задано")
-                requirement = vacancy.get("snippet", {}).get("requirement", "Не задано")
-                responsibility = vacancy.get("snippet", {}).get("responsibility", "Не задано")
-                link = vacancy.get("alternate_url", "Не задано")
-                salary_from = vacancy.get("salary", {}).get("from", "Не задано")
-                salary_to = vacancy.get("salary", {}).get("to", "Не задано")
+            vacancy_id = self.validation_data(vacancy.get("id", "Не указано"))
+            name = self.validation_data(vacancy.get("name", "Не указано"))
+            requirement = self.validation_data(vacancy.get("snippet").get("requirement", "Не указано")) \
+                if isinstance(vacancy.get("snippet"), (dict, str, list, int, float)) else "Не указано"
+            responsibility = self.validation_data(vacancy.get("snippet").get("responsibility", "Не указано")) \
+                if isinstance(vacancy.get("snippet"), (dict, str, list, int, float)) else "Не указано"
+            link = self.validation_data(vacancy.get("alternate_url", "Не указано"))
+            salary_from = self.validation_data(vacancy.get("salary").get("from", "Не указано")) \
+                if isinstance(vacancy.get("salary"), (dict, str, list, int, float)) else "Не указано"
+            salary_to = self.validation_data(vacancy.get("salary").get("to", "Не указано")) \
+                if isinstance(vacancy.get("salary"), (dict, str, list, int, float)) else "Не указано"
 
-                vacancies_list.append(Vacancy(employee_id=self.employee_id,
+            self.vacancies_list.append(Vacancy(employee_id=self.employee_id,
                                               vacancy_id=vacancy_id,
                                               name=name,
                                               requirement=requirement,
@@ -29,5 +34,8 @@ class VacWorker:
                                               salary_from=salary_from,
                                               salary_to=salary_to))
 
-        return vacancies_list
+        return self.vacancies_list
 
+    def validation_data(self, valid_data):
+        """ Метод для замены значения None на иное значение """
+        return valid_data if valid_data is not None else "Не указано"

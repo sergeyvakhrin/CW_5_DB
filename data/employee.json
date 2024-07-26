@@ -1,86 +1,788 @@
 [
     {
-        "id": "5713306",
-        "name": "BTS Python shoes",
-        "url": "https://api.hh.ru/employers/5713306",
-        "alternate_url": "https://hh.ru/employer/5713306",
+        "id": "60377",
+        "name": "ITECO",
+        "url": "https://api.hh.ru/employers/60377",
+        "alternate_url": "https://hh.ru/employer/60377",
         "logo_urls": {
-            "original": "https://img.hhcdn.ru/employer-logo-original/890820.jpg",
-            "240": "https://img.hhcdn.ru/employer-logo/4003968.jpeg",
-            "90": "https://img.hhcdn.ru/employer-logo/4003967.jpeg"
+            "original": "https://img.hhcdn.ru/employer-logo-original/920675.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4123277.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4123276.png"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5713306",
-        "open_vacancies": 0
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=60377",
+        "open_vacancies": 452
     },
     {
-        "id": "2219347",
-        "name": "Luis Python",
-        "url": "https://api.hh.ru/employers/2219347",
-        "alternate_url": "https://hh.ru/employer/2219347",
+        "id": "1808685",
+        "name": "UBER. Сервис личных водителей",
+        "url": "https://api.hh.ru/employers/1808685",
+        "alternate_url": "https://hh.ru/employer/1808685",
         "logo_urls": null,
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2219347",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1808685",
         "open_vacancies": 0
     },
     {
-        "id": "97962",
-        "name": "Python",
-        "url": "https://api.hh.ru/employers/97962",
-        "alternate_url": "https://hh.ru/employer/97962",
-        "logo_urls": null,
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=97962",
-        "open_vacancies": 0
-    },
-    {
-        "id": "3115724",
-        "name": "Python",
-        "url": "https://api.hh.ru/employers/3115724",
-        "alternate_url": "https://hh.ru/employer/3115724",
-        "logo_urls": null,
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3115724",
-        "open_vacancies": 0
-    },
-    {
-        "id": "10347404",
-        "name": "Python Flowers",
-        "url": "https://api.hh.ru/employers/10347404",
-        "alternate_url": "https://hh.ru/employer/10347404",
-        "logo_urls": null,
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10347404",
-        "open_vacancies": 0
-    },
-    {
-        "id": "10467249",
-        "name": "Python Flowers",
-        "url": "https://api.hh.ru/employers/10467249",
-        "alternate_url": "https://hh.ru/employer/10467249",
-        "logo_urls": null,
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10467249",
-        "open_vacancies": 0
-    },
-    {
-        "id": "8940297",
-        "name": "Частная компания Python RPA Ltd.",
-        "url": "https://api.hh.ru/employers/8940297",
-        "alternate_url": "https://hh.ru/employer/8940297",
+        "id": "3879848",
+        "name": "UX — сервис личных водителей",
+        "url": "https://api.hh.ru/employers/3879848",
+        "alternate_url": "https://hh.ru/employer/3879848",
         "logo_urls": {
-            "original": "https://img.hhcdn.ru/employer-logo-original/1293673.png",
-            "240": "https://img.hhcdn.ru/employer-logo/6794987.png",
-            "90": "https://img.hhcdn.ru/employer-logo/6794986.png"
+            "original": "https://img.hhcdn.ru/employer-logo-original/616654.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/2907769.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2907768.jpeg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8940297",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3879848",
         "open_vacancies": 0
     },
     {
-        "id": "4599861",
-        "name": "Школа Python",
-        "url": "https://api.hh.ru/employers/4599861",
-        "alternate_url": "https://hh.ru/employer/4599861",
+        "id": "5303100",
+        "name": "Автошкола Водитель",
+        "url": "https://api.hh.ru/employers/5303100",
+        "alternate_url": "https://hh.ru/employer/5303100",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5303100",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4891304",
+        "name": "Автошкола Центр подготовки водителей АВТОСИГНАЛ",
+        "url": "https://api.hh.ru/employers/4891304",
+        "alternate_url": "https://hh.ru/employer/4891304",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4891304",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6001283",
+        "name": "Автошкола Ярославский центр подготовки водителей",
+        "url": "https://api.hh.ru/employers/6001283",
+        "alternate_url": "https://hh.ru/employer/6001283",
         "logo_urls": {
-            "original": "https://img.hhcdn.ru/employer-logo-original/734716.png",
-            "240": "https://img.hhcdn.ru/employer-logo/3379842.png",
-            "90": "https://img.hhcdn.ru/employer-logo/3379841.png"
+            "original": "https://img.hhcdn.ru/employer-logo-original/935752.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/4183557.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/4183556.jpeg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4599861",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6001283",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9257759",
+        "name": "Агент по привлечению водителей",
+        "url": "https://api.hh.ru/employers/9257759",
+        "alternate_url": "https://hh.ru/employer/9257759",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9257759",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5879269",
+        "name": "АНО ПО Нижегородский Центр Подготовки Водителей Регионального Отделения Досааф России Нижегородской Области",
+        "url": "https://api.hh.ru/employers/5879269",
+        "alternate_url": "https://hh.ru/employer/5879269",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/963670.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5388701.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5388700.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5879269",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6163279",
+        "name": "АНПОО по подготовке водителей СТАРТ",
+        "url": "https://api.hh.ru/employers/6163279",
+        "alternate_url": "https://hh.ru/employer/6163279",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6163279",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1909065",
+        "name": "Безопасный водитель",
+        "url": "https://api.hh.ru/employers/1909065",
+        "alternate_url": "https://hh.ru/employer/1909065",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/764011.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3497002.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3497001.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1909065",
+        "open_vacancies": 30
+    },
+    {
+        "id": "4510565",
+        "name": "Вежливые Водители",
+        "url": "https://api.hh.ru/employers/4510565",
+        "alternate_url": "https://hh.ru/employer/4510565",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4510565",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9095460",
+        "name": "Вежливый водитель",
+        "url": "https://api.hh.ru/employers/9095460",
+        "alternate_url": "https://hh.ru/employer/9095460",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1246579.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6606746.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6606745.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9095460",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9960456",
+        "name": "Вежливый Водитель",
+        "url": "https://api.hh.ru/employers/9960456",
+        "alternate_url": "https://hh.ru/employer/9960456",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1114398.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/6078190.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6078189.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9960456",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10076418",
+        "name": "Вежливый Водитель",
+        "url": "https://api.hh.ru/employers/10076418",
+        "alternate_url": "https://hh.ru/employer/10076418",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10076418",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4506762",
+        "name": "Водитель 64",
+        "url": "https://api.hh.ru/employers/4506762",
+        "alternate_url": "https://hh.ru/employer/4506762",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/716942.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3308885.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3308884.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4506762",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11254394",
+        "name": "Водитель АВС",
+        "url": "https://api.hh.ru/employers/11254394",
+        "alternate_url": "https://hh.ru/employer/11254394",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11254394",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10738255",
+        "name": "Водитель Да",
+        "url": "https://api.hh.ru/employers/10738255",
+        "alternate_url": "https://hh.ru/employer/10738255",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10738255",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1004860",
+        "name": "Водитель Сити (Лазаренко А. Г)",
+        "url": "https://api.hh.ru/employers/1004860",
+        "alternate_url": "https://hh.ru/employer/1004860",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/96285.png",
+            "240": "https://img.hhcdn.ru/employer-logo/951621.png",
+            "90": "https://img.hhcdn.ru/employer-logo/951620.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1004860",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2661933",
+        "name": "Добрый водитель",
+        "url": "https://api.hh.ru/employers/2661933",
+        "alternate_url": "https://hh.ru/employer/2661933",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/383147.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1974847.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1974846.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2661933",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2284269",
+        "name": "Домой со мной трезвый водитель",
+        "url": "https://api.hh.ru/employers/2284269",
+        "alternate_url": "https://hh.ru/employer/2284269",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2284269",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1073382",
+        "name": "Защита, Саратовский областной профессиональный союз водителей автотранспорта",
+        "url": "https://api.hh.ru/employers/1073382",
+        "alternate_url": "https://hh.ru/employer/1073382",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/82767.png",
+            "240": "https://img.hhcdn.ru/employer-logo/927657.png",
+            "90": "https://img.hhcdn.ru/employer-logo/927656.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1073382",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3778482",
+        "name": "Компания Трезвый Водитель",
+        "url": "https://api.hh.ru/employers/3778482",
+        "alternate_url": "https://hh.ru/employer/3778482",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3778482",
+        "open_vacancies": 1
+    },
+    {
+        "id": "10497589",
+        "name": "Консультационно-Учебный Центр Подготовки Водителей",
+        "url": "https://api.hh.ru/employers/10497589",
+        "alternate_url": "https://hh.ru/employer/10497589",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10497589",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1615463",
+        "name": "Кооператив водителей такси",
+        "url": "https://api.hh.ru/employers/1615463",
+        "alternate_url": "https://hh.ru/employer/1615463",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1615463",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2736839",
+        "name": "Личный водитель",
+        "url": "https://api.hh.ru/employers/2736839",
+        "alternate_url": "https://hh.ru/employer/2736839",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/399854.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2041495.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2041494.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2736839",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2705015",
+        "name": "Мой водитель",
+        "url": "https://api.hh.ru/employers/2705015",
+        "alternate_url": "https://hh.ru/employer/2705015",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/499007.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2437782.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2437781.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2705015",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6053481",
+        "name": "Мой трезвый водитель",
+        "url": "https://api.hh.ru/employers/6053481",
+        "alternate_url": "https://hh.ru/employer/6053481",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1201145.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6425030.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6425029.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6053481",
+        "open_vacancies": 1
+    },
+    {
+        "id": "574769",
+        "name": "МОО водителей",
+        "url": "https://api.hh.ru/employers/574769",
+        "alternate_url": "https://hh.ru/employer/574769",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/172535.png",
+            "240": "https://img.hhcdn.ru/employer-logo/440061.png",
+            "90": "https://img.hhcdn.ru/employer-logo/367204.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=574769",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3131965",
+        "name": "Московский Трезвый водитель",
+        "url": "https://api.hh.ru/employers/3131965",
+        "alternate_url": "https://hh.ru/employer/3131965",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3131965",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9629982",
+        "name": "Надёжный водитель, автошкола",
+        "url": "https://api.hh.ru/employers/9629982",
+        "alternate_url": "https://hh.ru/employer/9629982",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9629982",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2877832",
+        "name": "Негосударственное образовательное учреждение Учебный центр подготовки водителей Автошкола Формула",
+        "url": "https://api.hh.ru/employers/2877832",
+        "alternate_url": "https://hh.ru/employer/2877832",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2877832",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10266151",
+        "name": "Общероссийская Общественная организация Водители России",
+        "url": "https://api.hh.ru/employers/10266151",
+        "alternate_url": "https://hh.ru/employer/10266151",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10266151",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2133631",
+        "name": "Общество защиты прав водителей",
+        "url": "https://api.hh.ru/employers/2133631",
+        "alternate_url": "https://hh.ru/employer/2133631",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2133631",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4771709",
+        "name": "Общество защиты прав водителей",
+        "url": "https://api.hh.ru/employers/4771709",
+        "alternate_url": "https://hh.ru/employer/4771709",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4771709",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5727665",
+        "name": "Первый Трезвый Водитель",
+        "url": "https://api.hh.ru/employers/5727665",
+        "alternate_url": "https://hh.ru/employer/5727665",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/890837.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4004036.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4004035.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5727665",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1980530",
+        "name": "Персональный Водитель",
+        "url": "https://api.hh.ru/employers/1980530",
+        "alternate_url": "https://hh.ru/employer/1980530",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1307986.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6852207.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6852206.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1980530",
+        "open_vacancies": 7
+    },
+    {
+        "id": "2777404",
+        "name": "Персональный Водитель",
+        "url": "https://api.hh.ru/employers/2777404",
+        "alternate_url": "https://hh.ru/employer/2777404",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2777404",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4757431",
+        "name": "Персональный Водитель",
+        "url": "https://api.hh.ru/employers/4757431",
+        "alternate_url": "https://hh.ru/employer/4757431",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4757431",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10529427",
+        "name": "Подготовка Водителей",
+        "url": "https://api.hh.ru/employers/10529427",
+        "alternate_url": "https://hh.ru/employer/10529427",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10529427",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3291996",
+        "name": "Подключение водителей к сервису Максим",
+        "url": "https://api.hh.ru/employers/3291996",
+        "alternate_url": "https://hh.ru/employer/3291996",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/526006.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2545502.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2545501.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291996",
+        "open_vacancies": 94
+    },
+    {
+        "id": "3418747",
+        "name": "Помощник водителя",
+        "url": "https://api.hh.ru/employers/3418747",
+        "alternate_url": "https://hh.ru/employer/3418747",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1038260.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/5773797.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5773796.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3418747",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3649325",
+        "name": "ПОО ЧУ Центральные Курсы Водителей",
+        "url": "https://api.hh.ru/employers/3649325",
+        "alternate_url": "https://hh.ru/employer/3649325",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/576738.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2748224.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2748223.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3649325",
+        "open_vacancies": 2
+    },
+    {
+        "id": "1435841",
+        "name": "Свой Водитель",
+        "url": "https://api.hh.ru/employers/1435841",
+        "alternate_url": "https://hh.ru/employer/1435841",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1435841",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3470733",
+        "name": "Семейный водитель",
+        "url": "https://api.hh.ru/employers/3470733",
+        "alternate_url": "https://hh.ru/employer/3470733",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/539977.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2601382.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2601381.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3470733",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5302220",
+        "name": "Ситимобил. Водители такси",
+        "url": "https://api.hh.ru/employers/5302220",
+        "alternate_url": "https://hh.ru/employer/5302220",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5302220",
+        "open_vacancies": 0
+    },
+    {
+        "id": "991133",
+        "name": "Служба Помощи Водителям",
+        "url": "https://api.hh.ru/employers/991133",
+        "alternate_url": "https://hh.ru/employer/991133",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=991133",
+        "open_vacancies": 0
+    },
+    {
+        "id": "832591",
+        "name": "Служба трезвый водитель",
+        "url": "https://api.hh.ru/employers/832591",
+        "alternate_url": "https://hh.ru/employer/832591",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=832591",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3325783",
+        "name": "Союз водителей",
+        "url": "https://api.hh.ru/employers/3325783",
+        "alternate_url": "https://hh.ru/employer/3325783",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3325783",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4584943",
+        "name": "Союз Профессиональных Водителей",
+        "url": "https://api.hh.ru/employers/4584943",
+        "alternate_url": "https://hh.ru/employer/4584943",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4584943",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9653224",
+        "name": "Таксопарк Водитель такси",
+        "url": "https://api.hh.ru/employers/9653224",
+        "alternate_url": "https://hh.ru/employer/9653224",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1069432.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5898358.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5898357.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9653224",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2172960",
+        "name": "Трезвые водители",
+        "url": "https://api.hh.ru/employers/2172960",
+        "alternate_url": "https://hh.ru/employer/2172960",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2172960",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3107083",
+        "name": "УЦ Продвинутый водитель",
+        "url": "https://api.hh.ru/employers/3107083",
+        "alternate_url": "https://hh.ru/employer/3107083",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3107083",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3288574",
+        "name": "Фортуна НН, центр подключения водителей",
+        "url": "https://api.hh.ru/employers/3288574",
+        "alternate_url": "https://hh.ru/employer/3288574",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/789919.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3600568.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3600567.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3288574",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10580006",
+        "name": "Центр защиты прав водителей",
+        "url": "https://api.hh.ru/employers/10580006",
+        "alternate_url": "https://hh.ru/employer/10580006",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1282002.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6748307.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6748306.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10580006",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5794231",
+        "name": "Центр найма водителей",
+        "url": "https://api.hh.ru/employers/5794231",
+        "alternate_url": "https://hh.ru/employer/5794231",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5794231",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4831751",
+        "name": "Центр подбора водителей (ИП Савватеев Сергей Сергеевич)",
+        "url": "https://api.hh.ru/employers/4831751",
+        "alternate_url": "https://hh.ru/employer/4831751",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4831751",
+        "open_vacancies": 0
+    },
+    {
+        "id": "8922109",
+        "name": "Центр подготовки водителей",
+        "url": "https://api.hh.ru/employers/8922109",
+        "alternate_url": "https://hh.ru/employer/8922109",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8922109",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1023238",
+        "name": "Центр подготовки водителей, НОУ ДО",
+        "url": "https://api.hh.ru/employers/1023238",
+        "alternate_url": "https://hh.ru/employer/1023238",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/92774.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/694881.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/694880.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1023238",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3862375",
+        "name": "Центр подключения водителей",
+        "url": "https://api.hh.ru/employers/3862375",
+        "alternate_url": "https://hh.ru/employer/3862375",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3862375",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4176244",
+        "name": "Центр подключения водителей",
+        "url": "https://api.hh.ru/employers/4176244",
+        "alternate_url": "https://hh.ru/employer/4176244",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/664154.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3097749.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3097748.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4176244",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4923929",
+        "name": "Центр подключения водителей - DiDi",
+        "url": "https://api.hh.ru/employers/4923929",
+        "alternate_url": "https://hh.ru/employer/4923929",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/777404.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3550508.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3550507.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4923929",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10451064",
+        "name": "Центр подключения водителей (ИП Алиев Руслан Халаддинович)",
+        "url": "https://api.hh.ru/employers/10451064",
+        "alternate_url": "https://hh.ru/employer/10451064",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10451064",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3161141",
+        "name": "Центр подключения водителей (ИП Кугаевская Екатерина Юрьевна)",
+        "url": "https://api.hh.ru/employers/3161141",
+        "alternate_url": "https://hh.ru/employer/3161141",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/948218.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4233409.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4233408.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3161141",
+        "open_vacancies": 1
+    },
+    {
+        "id": "10787472",
+        "name": "Центр подключения водителей (ИП Магомедов Абдулкадир Гамзатович)",
+        "url": "https://api.hh.ru/employers/10787472",
+        "alternate_url": "https://hh.ru/employer/10787472",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10787472",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2137755",
+        "name": "Центр Подключения Водителей Такси",
+        "url": "https://api.hh.ru/employers/2137755",
+        "alternate_url": "https://hh.ru/employer/2137755",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/455320.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2263248.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2263247.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2137755",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9162076",
+        "name": "Центр помощи водителю и пассажиру",
+        "url": "https://api.hh.ru/employers/9162076",
+        "alternate_url": "https://hh.ru/employer/9162076",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1003202.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5633589.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5633588.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9162076",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1996223",
+        "name": "Центр правовой помощи водителям",
+        "url": "https://api.hh.ru/employers/1996223",
+        "alternate_url": "https://hh.ru/employer/1996223",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1996223",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9619350",
+        "name": "Частное Профессиональное Образовательное учреждение Центр Подготовки Водителей Вираж-Плюс",
+        "url": "https://api.hh.ru/employers/9619350",
+        "alternate_url": "https://hh.ru/employer/9619350",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9619350",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5423620",
+        "name": "ЧОУ Дополнительного Профессионального Образования по Подготовке и Переподготовке Водителей Автошкола Лидер",
+        "url": "https://api.hh.ru/employers/5423620",
+        "alternate_url": "https://hh.ru/employer/5423620",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5423620",
+        "open_vacancies": 0
+    },
+    {
+        "id": "8909998",
+        "name": "ЧОУ ДПО Вежливый водитель",
+        "url": "https://api.hh.ru/employers/8909998",
+        "alternate_url": "https://hh.ru/employer/8909998",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8909998",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1214197",
+        "name": "ЧОУ ДПО Школа подготовки водителей ПРОФИЛЬ",
+        "url": "https://api.hh.ru/employers/1214197",
+        "alternate_url": "https://hh.ru/employer/1214197",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1214197",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4057170",
+        "name": "ЧУ ДПО Центр подготовки водителей Драйв",
+        "url": "https://api.hh.ru/employers/4057170",
+        "alternate_url": "https://hh.ru/employer/4057170",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4057170",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6132810",
+        "name": "ЧУЗ Медицинская экспертиза водителей",
+        "url": "https://api.hh.ru/employers/6132810",
+        "alternate_url": "https://hh.ru/employer/6132810",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6132810",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11090254",
+        "name": "Школа профессионального обучения водителей",
+        "url": "https://api.hh.ru/employers/11090254",
+        "alternate_url": "https://hh.ru/employer/11090254",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11090254",
         "open_vacancies": 0
     }
 ]
