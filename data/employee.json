@@ -1,0 +1,20 @@
+[
+    {
+        "id": "10620589",
+        "name": "Java",
+        "url": "https://api.hh.ru/employers/10620589",
+        "alternate_url": "https://hh.ru/employer/10620589",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10620589",
+        "open_vacancies": 3
+    },
+    {
+        "id": "9015504",
+        "name": "Java Motul",
+        "url": "https://api.hh.ru/employers/9015504",
+        "alternate_url": "https://hh.ru/employer/9015504",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9015504",
+        "open_vacancies": 0
+    }
+]

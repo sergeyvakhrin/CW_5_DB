@@ -1,0 +1,260 @@
+[
+    {
+        "id": "104597769",
+        "premium": false,
+        "name": "Менеджер по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "22",
+            "name": "Владивосток",
+            "url": "https://api.hh.ru/areas/22"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Владивосток",
+            "street": "Выселковая улица39Вс3",
+            "building": null,
+            "lat": 43.14759071800755,
+            "lng": 131.9490515085755,
+            "description": null,
+            "raw": "Владивосток, Выселковая улица39Вс3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14820638"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-25T03:54:13+0300",
+        "created_at": "2024-07-25T03:54:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104597769",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104597769?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104597769",
+        "relations": [],
+        "employer": {
+            "id": "10620589",
+            "name": "Java",
+            "url": "https://api.hh.ru/employers/10620589",
+            "alternate_url": "https://hh.ru/employer/10620589",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10620589",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Пунктуальный и ответственный человек. Минимальные знания П.",
+            "responsibility": "Работа с клиентами (телефон, интернет площадки). Выполнение всех поставленных задач."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104028433",
+        "premium": false,
+        "name": "Региональный менеджер по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "22",
+            "name": "Владивосток",
+            "url": "https://api.hh.ru/areas/22"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Владивосток",
+            "street": "Выселковая улица39Вс3",
+            "building": null,
+            "lat": 43.14759071800755,
+            "lng": 131.9490515085755,
+            "description": null,
+            "raw": "Владивосток, Выселковая улица39Вс3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14820638"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-17T00:49:13+0300",
+        "created_at": "2024-07-17T00:49:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104028433",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104028433?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104028433",
+        "relations": [],
+        "employer": {
+            "id": "10620589",
+            "name": "Java",
+            "url": "https://api.hh.ru/employers/10620589",
+            "alternate_url": "https://hh.ru/employer/10620589",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10620589",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Стрессоустойчивость. Пунктуальность. Общительность.",
+            "responsibility": "Работа с клиентами через телефон и мессенджеры. Сопутствующая работа в офисе."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104532363",
+        "premium": false,
+        "name": "Менеджер по продажам автозапчастей",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "22",
+            "name": "Владивосток",
+            "url": "https://api.hh.ru/areas/22"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Владивосток",
+            "street": "Выселковая улица39Вс3",
+            "building": null,
+            "lat": 43.14759071800755,
+            "lng": 131.9490515085755,
+            "description": null,
+            "raw": "Владивосток, Выселковая улица39Вс3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14820638"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-24T10:04:49+0300",
+        "created_at": "2024-07-24T10:04:49+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104532363",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104532363?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104532363",
+        "relations": [],
+        "employer": {
+            "id": "10620589",
+            "name": "Java",
+            "url": "https://api.hh.ru/employers/10620589",
+            "alternate_url": "https://hh.ru/employer/10620589",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10620589",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Ответственный. Стрессоустойчивый. Пунктуальный.",
+            "responsibility": "Телефонные переговоры. Переговоры на интернет площадках. Ведение сделок."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
