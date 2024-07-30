@@ -85,7 +85,7 @@ class DataBaseWorker:
                 employee_sql_id = self.get_sql_id_employer(employee)
                 # вакансиям этого работодателя присваиваем его sql_id
                 self.add_sql_id_in_vacancy(employee, employee_sql_id)
-                cur.execute(f"UPDATE employee SET name='{employee.name}', url='{employee.url}', alternate_url='{employee.alternate_url}', vacancies_url='{employee.vacancies_url}', open_vacancies={employee.open_vacancies} WHERE hh_id={employee.hh_id}")
+                cur.execute(f"UPDATE employee SET name='{employee.name}', url='{employee.url}', alternate_url='{employee.alternate_url}', vacancies_url='{employee.vacancies_url}', open_vacancies='{employee.open_vacancies}' WHERE hh_id='{employee.hh_id}'")
                 # берем следующего работодателя
                 continue # TODO: можно реализовать метод обновления данных о работодателе с подстановкой даты обновления
             else:
@@ -104,13 +104,13 @@ class DataBaseWorker:
         cur = self.conn.cursor()
         for vacancy in emp_vacancies:
             if self.check_in_base(vacancy):
-                cur.execute(f"UPDATE vacancy SET name='{vacancy.name}', requirement='{vacancy.requirement}', responsibility='{vacancy.responsibility}', url='{vacancy.link}', salary_from='{vacancy.salary_from}', salary_to={vacancy.salary_to} WHERE hh_id={vacancy.hh_id}")
+                cur.execute(f"UPDATE vacancy SET name='{vacancy.name}', requirement='{vacancy.requirement}', responsibility='{vacancy.responsibility}', url='{vacancy.link}', salary_from='{vacancy.salary_from}', salary_to='{vacancy.salary_to}' WHERE hh_id='{vacancy.hh_id}'")
                 continue # TODO: можно реализовать метод обновления данных о вакансии с подстановкой даты обновления
             else:
                 cur.executemany(
                     "INSERT INTO vacancy (employer_id, hh_id, name, requirement, responsibility, url, salary_from, salary_to) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
                     [(vacancy.employee_sql_id, vacancy.hh_id, vacancy.name, vacancy.requirement, vacancy.responsibility,
-                      vacancy.link, vacancy.salary_from if not "Не указано" else 0, vacancy.salary_to if not "Не указано" else 0)])
+                      vacancy.link, vacancy.salary_from, vacancy.salary_to)])
         self.conn.commit()
 
     def get_top_ten_employee(self):

@@ -24,7 +24,7 @@ class HH(APIRequests):
         """ Метод для отправки API запроса на HH.ru"""
 
         while self.params['page'] != 20:
-            response = requests.get(url=self.url, headers=self.headers, params=self.params, timeout=20)
+            response = requests.get(url=self.url, headers=self.headers, params=self.params)
             data = response.json()['items']
             self.data_list.extend(data)
             self.params['page'] += 1

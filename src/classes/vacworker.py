@@ -33,4 +33,4 @@ class VacWorker:
     @classmethod
     def validation_data(cls, valid_data):
         """ Метод для замены значения None на иное значение """
-        return valid_data if valid_data is not None else "Не указано"
+        return valid_data if valid_data is not None else 0
