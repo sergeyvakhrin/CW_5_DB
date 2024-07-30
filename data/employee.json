@@ -1,0 +1,2242 @@
+[
+    {
+        "id": "1966364",
+        "name": "1С:Франчайзи FAVOR-IT",
+        "url": "https://api.hh.ru/employers/1966364",
+        "alternate_url": "https://hh.ru/employer/1966364",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/285795.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/1585575.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/1585574.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1966364",
+        "open_vacancies": 3
+    },
+    {
+        "id": "4931636",
+        "name": "2PEOPLE IT",
+        "url": "https://api.hh.ru/employers/4931636",
+        "alternate_url": "https://hh.ru/employer/4931636",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1236328.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6565750.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6565749.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4931636",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2603468",
+        "name": "33IT",
+        "url": "https://api.hh.ru/employers/2603468",
+        "alternate_url": "https://hh.ru/employer/2603468",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2603468",
+        "open_vacancies": 0
+    },
+    {
+        "id": "602957",
+        "name": "3 Step IT",
+        "url": "https://api.hh.ru/employers/602957",
+        "alternate_url": "https://hh.ru/employer/602957",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/166652.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/445100.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/372243.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=602957",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9856930",
+        "name": "4DX-IT",
+        "url": "https://api.hh.ru/employers/9856930",
+        "alternate_url": "https://hh.ru/employer/9856930",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9856930",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4679771",
+        "name": "4IT",
+        "url": "https://api.hh.ru/employers/4679771",
+        "alternate_url": "https://hh.ru/employer/4679771",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/747979.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3432878.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3432877.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4679771",
+        "open_vacancies": 1
+    },
+    {
+        "id": "5361466",
+        "name": "63it",
+        "url": "https://api.hh.ru/employers/5361466",
+        "alternate_url": "https://hh.ru/employer/5361466",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1098395.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6014194.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6014193.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5361466",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3027217",
+        "name": "78 IT",
+        "url": "https://api.hh.ru/employers/3027217",
+        "alternate_url": "https://hh.ru/employer/3027217",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/455720.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2264848.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2264847.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3027217",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2690637",
+        "name": "86iT",
+        "url": "https://api.hh.ru/employers/2690637",
+        "alternate_url": "https://hh.ru/employer/2690637",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2690637",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3896407",
+        "name": "8Bit - Лучшие IT Решения",
+        "url": "https://api.hh.ru/employers/3896407",
+        "alternate_url": "https://hh.ru/employer/3896407",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/621811.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2928397.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2928396.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3896407",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9836138",
+        "name": "Abai IT-Valley",
+        "url": "https://api.hh.ru/employers/9836138",
+        "alternate_url": "https://hh.ru/employer/9836138",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9836138",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10505096",
+        "name": "Abstract IT Group",
+        "url": "https://api.hh.ru/employers/10505096",
+        "alternate_url": "https://hh.ru/employer/10505096",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10505096",
+        "open_vacancies": 2
+    },
+    {
+        "id": "5110456",
+        "name": "Academ IT",
+        "url": "https://api.hh.ru/employers/5110456",
+        "alternate_url": "https://hh.ru/employer/5110456",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5110456",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5993055",
+        "name": "Academy IT",
+        "url": "https://api.hh.ru/employers/5993055",
+        "alternate_url": "https://hh.ru/employer/5993055",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5993055",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1048376",
+        "name": "accept-it",
+        "url": "https://api.hh.ru/employers/1048376",
+        "alternate_url": "https://hh.ru/employer/1048376",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1048376",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5681737",
+        "name": "Active İT Solutions",
+        "url": "https://api.hh.ru/employers/5681737",
+        "alternate_url": "https://hh.ru/employer/5681737",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5681737",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5133962",
+        "name": "ADA it",
+        "url": "https://api.hh.ru/employers/5133962",
+        "alternate_url": "https://hh.ru/employer/5133962",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5133962",
+        "open_vacancies": 0
+    },
+    {
+        "id": "8932785",
+        "name": "Adem IT",
+        "url": "https://api.hh.ru/employers/8932785",
+        "alternate_url": "https://hh.ru/employer/8932785",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/972480.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5510769.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5510768.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8932785",
+        "open_vacancies": 3
+    },
+    {
+        "id": "9529885",
+        "name": "Adigium IT Services",
+        "url": "https://api.hh.ru/employers/9529885",
+        "alternate_url": "https://hh.ru/employer/9529885",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9529885",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1379182",
+        "name": "ADMtime IT Solutions",
+        "url": "https://api.hh.ru/employers/1379182",
+        "alternate_url": "https://hh.ru/employer/1379182",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1379182",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1083682",
+        "name": "AGAMA IT Group",
+        "url": "https://api.hh.ru/employers/1083682",
+        "alternate_url": "https://hh.ru/employer/1083682",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/533374.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2574970.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2574969.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1083682",
+        "open_vacancies": 2
+    },
+    {
+        "id": "9451699",
+        "name": "AH Group IT",
+        "url": "https://api.hh.ru/employers/9451699",
+        "alternate_url": "https://hh.ru/employer/9451699",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1043420.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5794338.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5794337.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9451699",
+        "open_vacancies": 2
+    },
+    {
+        "id": "3773371",
+        "name": "Alatau IT Solution",
+        "url": "https://api.hh.ru/employers/3773371",
+        "alternate_url": "https://hh.ru/employer/3773371",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/597417.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2830924.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2830923.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3773371",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2809393",
+        "name": "Alex-IT",
+        "url": "https://api.hh.ru/employers/2809393",
+        "alternate_url": "https://hh.ru/employer/2809393",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/414968.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2101947.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2101946.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2809393",
+        "open_vacancies": 0
+    },
+    {
+        "id": "912945",
+        "name": "Aliari IT Service",
+        "url": "https://api.hh.ru/employers/912945",
+        "alternate_url": "https://hh.ru/employer/912945",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/113664.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/606705.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/606704.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=912945",
+        "open_vacancies": 1
+    },
+    {
+        "id": "4494976",
+        "name": "Alif IT Development",
+        "url": "https://api.hh.ru/employers/4494976",
+        "alternate_url": "https://hh.ru/employer/4494976",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/716613.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3307569.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3307568.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4494976",
+        "open_vacancies": 2
+    },
+    {
+        "id": "766478",
+        "name": "Almaty IT telecom",
+        "url": "https://api.hh.ru/employers/766478",
+        "alternate_url": "https://hh.ru/employer/766478",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/140807.png",
+            "240": "https://img.hhcdn.ru/employer-logo/589497.png",
+            "90": "https://img.hhcdn.ru/employer-logo/589496.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=766478",
+        "open_vacancies": 1
+    },
+    {
+        "id": "982022",
+        "name": "Alm-IT, ТМ",
+        "url": "https://api.hh.ru/employers/982022",
+        "alternate_url": "https://hh.ru/employer/982022",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1058648.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5855234.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5855233.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=982022",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2960127",
+        "name": "Alora IT Solutions",
+        "url": "https://api.hh.ru/employers/2960127",
+        "alternate_url": "https://hh.ru/employer/2960127",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2960127",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4168187",
+        "name": "Alpaca-IT",
+        "url": "https://api.hh.ru/employers/4168187",
+        "alternate_url": "https://hh.ru/employer/4168187",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/798374.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3634384.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3634383.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4168187",
+        "open_vacancies": 1
+    },
+    {
+        "id": "1385951",
+        "name": "Alright-IT Rus",
+        "url": "https://api.hh.ru/employers/1385951",
+        "alternate_url": "https://hh.ru/employer/1385951",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/34979.JPG",
+            "240": "https://img.hhcdn.ru/employer-logo/957264.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/957263.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1385951",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9274777",
+        "name": "ALTAN IT (АЛТАН ИТ)",
+        "url": "https://api.hh.ru/employers/9274777",
+        "alternate_url": "https://hh.ru/employer/9274777",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1166974.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6288335.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6288334.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9274777",
+        "open_vacancies": 1
+    },
+    {
+        "id": "4858810",
+        "name": "ALT IT SOLUTIONS",
+        "url": "https://api.hh.ru/employers/4858810",
+        "alternate_url": "https://hh.ru/employer/4858810",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/768288.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3514110.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3514109.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4858810",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1929638",
+        "name": "Amadeus IT Group",
+        "url": "https://api.hh.ru/employers/1929638",
+        "alternate_url": "https://hh.ru/employer/1929638",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1929638",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4644171",
+        "name": "AMGRAAL IT Company",
+        "url": "https://api.hh.ru/employers/4644171",
+        "alternate_url": "https://hh.ru/employer/4644171",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4644171",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1763330",
+        "name": "Angels IT",
+        "url": "https://api.hh.ru/employers/1763330",
+        "alternate_url": "https://hh.ru/employer/1763330",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/790341.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3602256.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3602255.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1763330",
+        "open_vacancies": 7
+    },
+    {
+        "id": "5926815",
+        "name": "Anro IT",
+        "url": "https://api.hh.ru/employers/5926815",
+        "alternate_url": "https://hh.ru/employer/5926815",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1045276.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5801762.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5801761.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5926815",
+        "open_vacancies": 0
+    },
+    {
+        "id": "8892732",
+        "name": "Ansor IT Akademiyasi",
+        "url": "https://api.hh.ru/employers/8892732",
+        "alternate_url": "https://hh.ru/employer/8892732",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8892732",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2683731",
+        "name": "Any IT Solutions",
+        "url": "https://api.hh.ru/employers/2683731",
+        "alternate_url": "https://hh.ru/employer/2683731",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1223730.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6515362.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6515361.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2683731",
+        "open_vacancies": 0
+    },
+    {
+        "id": "839779",
+        "name": "Anytech-IT",
+        "url": "https://api.hh.ru/employers/839779",
+        "alternate_url": "https://hh.ru/employer/839779",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/129938.png",
+            "240": "https://img.hhcdn.ru/employer-logo/905052.png",
+            "90": "https://img.hhcdn.ru/employer-logo/905051.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=839779",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1067598",
+        "name": "Apelsin-IT",
+        "url": "https://api.hh.ru/employers/1067598",
+        "alternate_url": "https://hh.ru/employer/1067598",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1067598",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5828914",
+        "name": "APPSKA IT",
+        "url": "https://api.hh.ru/employers/5828914",
+        "alternate_url": "https://hh.ru/employer/5828914",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5828914",
+        "open_vacancies": 0
+    },
+    {
+        "id": "957777",
+        "name": "Aquattro IT",
+        "url": "https://api.hh.ru/employers/957777",
+        "alternate_url": "https://hh.ru/employer/957777",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=957777",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9017100",
+        "name": "ARAM GROUP IT",
+        "url": "https://api.hh.ru/employers/9017100",
+        "alternate_url": "https://hh.ru/employer/9017100",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1011858.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5668205.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5668204.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9017100",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4578534",
+        "name": "Archclub IT Lab",
+        "url": "https://api.hh.ru/employers/4578534",
+        "alternate_url": "https://hh.ru/employer/4578534",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4578534",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10141875",
+        "name": "ARCTIQ IT (Кармиберганов Шохжахон)",
+        "url": "https://api.hh.ru/employers/10141875",
+        "alternate_url": "https://hh.ru/employer/10141875",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10141875",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1592535",
+        "name": "Arena IT",
+        "url": "https://api.hh.ru/employers/1592535",
+        "alternate_url": "https://hh.ru/employer/1592535",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/506070.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2466034.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2466033.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1592535",
+        "open_vacancies": 0
+    },
+    {
+        "id": "629354",
+        "name": "ArtNik, IT-компания",
+        "url": "https://api.hh.ru/employers/629354",
+        "alternate_url": "https://hh.ru/employer/629354",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/161860.JPG",
+            "240": "https://img.hhcdn.ru/employer-logo/449368.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/376511.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=629354",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9962420",
+        "name": "ARYSTAN IT GROUP",
+        "url": "https://api.hh.ru/employers/9962420",
+        "alternate_url": "https://hh.ru/employer/9962420",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1114836.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6079942.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6079941.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9962420",
+        "open_vacancies": 4
+    },
+    {
+        "id": "9627641",
+        "name": "ASAR IT TELECOM",
+        "url": "https://api.hh.ru/employers/9627641",
+        "alternate_url": "https://hh.ru/employer/9627641",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9627641",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4073857",
+        "name": "Asia IT Project",
+        "url": "https://api.hh.ru/employers/4073857",
+        "alternate_url": "https://hh.ru/employer/4073857",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/725959.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3344921.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3344920.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4073857",
+        "open_vacancies": 2
+    },
+    {
+        "id": "4331159",
+        "name": "Astana IT Group",
+        "url": "https://api.hh.ru/employers/4331159",
+        "alternate_url": "https://hh.ru/employer/4331159",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4331159",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2667859",
+        "name": "Astana IT (Restart)",
+        "url": "https://api.hh.ru/employers/2667859",
+        "alternate_url": "https://hh.ru/employer/2667859",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1091213.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5985474.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5985473.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2667859",
+        "open_vacancies": 1
+    },
+    {
+        "id": "4053700",
+        "name": "Astana IT University",
+        "url": "https://api.hh.ru/employers/4053700",
+        "alternate_url": "https://hh.ru/employer/4053700",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/780155.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3561512.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3561511.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4053700",
+        "open_vacancies": 7
+    },
+    {
+        "id": "9745015",
+        "name": "Asteria IT",
+        "url": "https://api.hh.ru/employers/9745015",
+        "alternate_url": "https://hh.ru/employer/9745015",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1097245.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6009598.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6009597.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9745015",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3603257",
+        "name": "Atelier-IT",
+        "url": "https://api.hh.ru/employers/3603257",
+        "alternate_url": "https://hh.ru/employer/3603257",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3603257",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3332906",
+        "name": "AT-IT",
+        "url": "https://api.hh.ru/employers/3332906",
+        "alternate_url": "https://hh.ru/employer/3332906",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/513795.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2496769.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2496768.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3332906",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5675939",
+        "name": "Atyrau IT products",
+        "url": "https://api.hh.ru/employers/5675939",
+        "alternate_url": "https://hh.ru/employer/5675939",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5675939",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1465758",
+        "name": "Audit-it.ru",
+        "url": "https://api.hh.ru/employers/1465758",
+        "alternate_url": "https://hh.ru/employer/1465758",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1465758",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5190600",
+        "name": "Avalon IT",
+        "url": "https://api.hh.ru/employers/5190600",
+        "alternate_url": "https://hh.ru/employer/5190600",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/814323.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/3698180.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3698179.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5190600",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10586807",
+        "name": "Avalon-IT",
+        "url": "https://api.hh.ru/employers/10586807",
+        "alternate_url": "https://hh.ru/employer/10586807",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10586807",
+        "open_vacancies": 2
+    },
+    {
+        "id": "2242476",
+        "name": "Avanti it-kz",
+        "url": "https://api.hh.ru/employers/2242476",
+        "alternate_url": "https://hh.ru/employer/2242476",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2242476",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3990571",
+        "name": "Avers-it",
+        "url": "https://api.hh.ru/employers/3990571",
+        "alternate_url": "https://hh.ru/employer/3990571",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/982103.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5549237.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5549236.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3990571",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9742548",
+        "name": "Axheleon IT Services",
+        "url": "https://api.hh.ru/employers/9742548",
+        "alternate_url": "https://hh.ru/employer/9742548",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9742548",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10947195",
+        "name": "AZEM WEB IT",
+        "url": "https://api.hh.ru/employers/10947195",
+        "alternate_url": "https://hh.ru/employer/10947195",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10947195",
+        "open_vacancies": 0
+    },
+    {
+        "id": "598825",
+        "name": "Az-it",
+        "url": "https://api.hh.ru/employers/598825",
+        "alternate_url": "https://hh.ru/employer/598825",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/167445.png",
+            "240": "https://img.hhcdn.ru/employer-logo/844194.png",
+            "90": "https://img.hhcdn.ru/employer-logo/844193.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=598825",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9355259",
+        "name": "B2B-IT (ИП Казаков Сергей Васильевич)",
+        "url": "https://api.hh.ru/employers/9355259",
+        "alternate_url": "https://hh.ru/employer/9355259",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1028636.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5735305.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5735304.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9355259",
+        "open_vacancies": 0
+    },
+    {
+        "id": "59071",
+        "name": "Bacup IT",
+        "url": "https://api.hh.ru/employers/59071",
+        "alternate_url": "https://hh.ru/employer/59071",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/218842.gif",
+            "240": "https://img.hhcdn.ru/employer-logo/395707.png",
+            "90": "https://img.hhcdn.ru/employer-logo/322850.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=59071",
+        "open_vacancies": 0
+    },
+    {
+        "id": "83285",
+        "name": "Baltic IT Partners",
+        "url": "https://api.hh.ru/employers/83285",
+        "alternate_url": "https://hh.ru/employer/83285",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/213406.png",
+            "240": "https://img.hhcdn.ru/employer-logo/401244.png",
+            "90": "https://img.hhcdn.ru/employer-logo/328387.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=83285",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3812333",
+        "name": "Baranchikov IP & IT Attorneys",
+        "url": "https://api.hh.ru/employers/3812333",
+        "alternate_url": "https://hh.ru/employer/3812333",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/603014.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2853213.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2853212.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3812333",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5838163",
+        "name": "BASE IT Oy",
+        "url": "https://api.hh.ru/employers/5838163",
+        "alternate_url": "https://hh.ru/employer/5838163",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5838163",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9059934",
+        "name": "Baun IT",
+        "url": "https://api.hh.ru/employers/9059934",
+        "alternate_url": "https://hh.ru/employer/9059934",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9059934",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5846484",
+        "name": "Bcom IT Services",
+        "url": "https://api.hh.ru/employers/5846484",
+        "alternate_url": "https://hh.ru/employer/5846484",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/910442.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4082456.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4082455.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5846484",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1930785",
+        "name": "BDO IT consulting",
+        "url": "https://api.hh.ru/employers/1930785",
+        "alternate_url": "https://hh.ru/employer/1930785",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/529992.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2561446.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2561445.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1930785",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4047341",
+        "name": "Beef It Easy",
+        "url": "https://api.hh.ru/employers/4047341",
+        "alternate_url": "https://hh.ru/employer/4047341",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4047341",
+        "open_vacancies": 0
+    },
+    {
+        "id": "607484",
+        "name": "Belk-IT",
+        "url": "https://api.hh.ru/employers/607484",
+        "alternate_url": "https://hh.ru/employer/607484",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/521303.JPG",
+            "240": "https://img.hhcdn.ru/employer-logo/2526690.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2526689.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=607484",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3177930",
+        "name": "Ben It Technics Almaty",
+        "url": "https://api.hh.ru/employers/3177930",
+        "alternate_url": "https://hh.ru/employer/3177930",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3177930",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4480834",
+        "name": "BePro IT Academy (НОУ “BePro-Education Center”)",
+        "url": "https://api.hh.ru/employers/4480834",
+        "alternate_url": "https://hh.ru/employer/4480834",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/711998.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3289109.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3289108.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4480834",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4780093",
+        "name": "Bergen.IT",
+        "url": "https://api.hh.ru/employers/4780093",
+        "alternate_url": "https://hh.ru/employer/4780093",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/757635.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3471498.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3471497.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4780093",
+        "open_vacancies": 0
+    },
+    {
+        "id": "866666",
+        "name": "BetBoom",
+        "url": "https://api.hh.ru/employers/866666",
+        "alternate_url": "https://hh.ru/employer/866666",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/759888.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3480510.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3480509.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=866666",
+        "open_vacancies": 261
+    },
+    {
+        "id": "4777264",
+        "name": "BEZE IT Company",
+        "url": "https://api.hh.ru/employers/4777264",
+        "alternate_url": "https://hh.ru/employer/4777264",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1034060.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5757001.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5757000.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4777264",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11033603",
+        "name": "BINART IT-SALES",
+        "url": "https://api.hh.ru/employers/11033603",
+        "alternate_url": "https://hh.ru/employer/11033603",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1271262.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6705359.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6705358.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11033603",
+        "open_vacancies": 0
+    },
+    {
+        "id": "235780",
+        "name": "BITS - Best IT Solution",
+        "url": "https://api.hh.ru/employers/235780",
+        "alternate_url": "https://hh.ru/employer/235780",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/185493.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/428217.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/355360.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=235780",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9386615",
+        "name": "BITS IT",
+        "url": "https://api.hh.ru/employers/9386615",
+        "alternate_url": "https://hh.ru/employer/9386615",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1048035.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/5812794.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5812793.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9386615",
+        "open_vacancies": 0
+    },
+    {
+        "id": "741241",
+        "name": "Blue Data IT-Support",
+        "url": "https://api.hh.ru/employers/741241",
+        "alternate_url": "https://hh.ru/employer/741241",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/143940.png",
+            "240": "https://img.hhcdn.ru/employer-logo/513726.png",
+            "90": "https://img.hhcdn.ru/employer-logo/513725.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=741241",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1759787",
+        "name": "Boel IT Aps",
+        "url": "https://api.hh.ru/employers/1759787",
+        "alternate_url": "https://hh.ru/employer/1759787",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/251235.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1447606.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1447605.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1759787",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4709733",
+        "name": "Bomb It",
+        "url": "https://api.hh.ru/employers/4709733",
+        "alternate_url": "https://hh.ru/employer/4709733",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4709733",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9989896",
+        "name": "BON-IT (Хилько Татьяна)",
+        "url": "https://api.hh.ru/employers/9989896",
+        "alternate_url": "https://hh.ru/employer/9989896",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1275384.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6721839.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6721838.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9989896",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5573243",
+        "name": "Book It Logistics Academy",
+        "url": "https://api.hh.ru/employers/5573243",
+        "alternate_url": "https://hh.ru/employer/5573243",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5573243",
+        "open_vacancies": 0
+    },
+    {
+        "id": "80660",
+        "name": "Boxberry",
+        "url": "https://api.hh.ru/employers/80660",
+        "alternate_url": "https://hh.ru/employer/80660",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/864410.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3898516.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3898515.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=80660",
+        "open_vacancies": 135
+    },
+    {
+        "id": "4610731",
+        "name": "BOYKO.IT",
+        "url": "https://api.hh.ru/employers/4610731",
+        "alternate_url": "https://hh.ru/employer/4610731",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4610731",
+        "open_vacancies": 0
+    },
+    {
+        "id": "565446",
+        "name": "Breeze IT International Group",
+        "url": "https://api.hh.ru/employers/565446",
+        "alternate_url": "https://hh.ru/employer/565446",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/174349.bmp",
+            "240": "https://img.hhcdn.ru/employer-logo/438413.png",
+            "90": "https://img.hhcdn.ru/employer-logo/365556.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=565446",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6078902",
+        "name": "Bricks IT",
+        "url": "https://api.hh.ru/employers/6078902",
+        "alternate_url": "https://hh.ru/employer/6078902",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/946993.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4228509.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4228508.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6078902",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10427524",
+        "name": "Bridge2it",
+        "url": "https://api.hh.ru/employers/10427524",
+        "alternate_url": "https://hh.ru/employer/10427524",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10427524",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2572688",
+        "name": "BSG-IT",
+        "url": "https://api.hh.ru/employers/2572688",
+        "alternate_url": "https://hh.ru/employer/2572688",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2572688",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5941774",
+        "name": "Bunkerlab IT",
+        "url": "https://api.hh.ru/employers/5941774",
+        "alternate_url": "https://hh.ru/employer/5941774",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5941774",
+        "open_vacancies": 0
+    },
+    {
+        "id": "159474",
+        "name": "Business IT Center, компания",
+        "url": "https://api.hh.ru/employers/159474",
+        "alternate_url": "https://hh.ru/employer/159474",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=159474",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9156330",
+        "name": "Capital-IT",
+        "url": "https://api.hh.ru/employers/9156330",
+        "alternate_url": "https://hh.ru/employer/9156330",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9156330",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2563346",
+        "name": "Catalyst IT",
+        "url": "https://api.hh.ru/employers/2563346",
+        "alternate_url": "https://hh.ru/employer/2563346",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2563346",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5089906",
+        "name": "CC IT Development Ltd",
+        "url": "https://api.hh.ru/employers/5089906",
+        "alternate_url": "https://hh.ru/employer/5089906",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5089906",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2397769",
+        "name": "Celebrate It!",
+        "url": "https://api.hh.ru/employers/2397769",
+        "alternate_url": "https://hh.ru/employer/2397769",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2397769",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9965898",
+        "name": "CENAT-IT",
+        "url": "https://api.hh.ru/employers/9965898",
+        "alternate_url": "https://hh.ru/employer/9965898",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1163279.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6273559.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6273558.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9965898",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6052014",
+        "name": "CGI IT Czech Republic s.r.o",
+        "url": "https://api.hh.ru/employers/6052014",
+        "alternate_url": "https://hh.ru/employer/6052014",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6052014",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3235102",
+        "name": "Cheap it",
+        "url": "https://api.hh.ru/employers/3235102",
+        "alternate_url": "https://hh.ru/employer/3235102",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3235102",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3463291",
+        "name": "Cheap it",
+        "url": "https://api.hh.ru/employers/3463291",
+        "alternate_url": "https://hh.ru/employer/3463291",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3463291",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1065572",
+        "name": "Check It Out",
+        "url": "https://api.hh.ru/employers/1065572",
+        "alternate_url": "https://hh.ru/employer/1065572",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1065572",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9944215",
+        "name": "Cheese it! Bakery",
+        "url": "https://api.hh.ru/employers/9944215",
+        "alternate_url": "https://hh.ru/employer/9944215",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1112185.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6069342.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6069341.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9944215",
+        "open_vacancies": 0
+    },
+    {
+        "id": "671444",
+        "name": "C-IT",
+        "url": "https://api.hh.ru/employers/671444",
+        "alternate_url": "https://hh.ru/employer/671444",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/154636.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/731604.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/731603.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=671444",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1773362",
+        "name": "Clear IT",
+        "url": "https://api.hh.ru/employers/1773362",
+        "alternate_url": "https://hh.ru/employer/1773362",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/252684.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1453370.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1453369.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1773362",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11037172",
+        "name": "Click IT",
+        "url": "https://api.hh.ru/employers/11037172",
+        "alternate_url": "https://hh.ru/employer/11037172",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1287390.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6769859.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6769858.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11037172",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11029226",
+        "name": "CLOUD IT SCHOOL",
+        "url": "https://api.hh.ru/employers/11029226",
+        "alternate_url": "https://hh.ru/employer/11029226",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11029226",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9086663",
+        "name": "Clover-IT",
+        "url": "https://api.hh.ru/employers/9086663",
+        "alternate_url": "https://hh.ru/employer/9086663",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1035892.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5764329.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5764328.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9086663",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9330484",
+        "name": "CMF IT & Tourism GmbH",
+        "url": "https://api.hh.ru/employers/9330484",
+        "alternate_url": "https://hh.ru/employer/9330484",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1038325.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5774057.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5774056.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9330484",
+        "open_vacancies": 0
+    },
+    {
+        "id": "113504",
+        "name": "COBA-IT",
+        "url": "https://api.hh.ru/employers/113504",
+        "alternate_url": "https://hh.ru/employer/113504",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=113504",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1642443",
+        "name": "Color-IT",
+        "url": "https://api.hh.ru/employers/1642443",
+        "alternate_url": "https://hh.ru/employer/1642443",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/679568.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3159405.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3159404.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1642443",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11294953",
+        "name": "Color IT художественная мастерская",
+        "url": "https://api.hh.ru/employers/11294953",
+        "alternate_url": "https://hh.ru/employer/11294953",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11294953",
+        "open_vacancies": 0
+    },
+    {
+        "id": "807894",
+        "name": "CompuTool IT",
+        "url": "https://api.hh.ru/employers/807894",
+        "alternate_url": "https://hh.ru/employer/807894",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/134809.png",
+            "240": "https://img.hhcdn.ru/employer-logo/540384.png",
+            "90": "https://img.hhcdn.ru/employer-logo/540383.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=807894",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2672825",
+        "name": "Consider It Done Technologies, LLC.",
+        "url": "https://api.hh.ru/employers/2672825",
+        "alternate_url": "https://hh.ru/employer/2672825",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2672825",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4504798",
+        "name": "Control-IT",
+        "url": "https://api.hh.ru/employers/4504798",
+        "alternate_url": "https://hh.ru/employer/4504798",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1248531.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6614554.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6614553.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4504798",
+        "open_vacancies": 3
+    },
+    {
+        "id": "2152342",
+        "name": "CoolBrain IT",
+        "url": "https://api.hh.ru/employers/2152342",
+        "alternate_url": "https://hh.ru/employer/2152342",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1082457.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5950458.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5950457.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2152342",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10575553",
+        "name": "CORE IT ACADEMY",
+        "url": "https://api.hh.ru/employers/10575553",
+        "alternate_url": "https://hh.ru/employer/10575553",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10575553",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6041600",
+        "name": "CORE IT KAZAKHSTAN (КОРЕ АЙТИ КАЗАХСТАН)",
+        "url": "https://api.hh.ru/employers/6041600",
+        "alternate_url": "https://hh.ru/employer/6041600",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6041600",
+        "open_vacancies": 1
+    },
+    {
+        "id": "5325585",
+        "name": "Creative IT & Development",
+        "url": "https://api.hh.ru/employers/5325585",
+        "alternate_url": "https://hh.ru/employer/5325585",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5325585",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5830953",
+        "name": "Creative IT Group",
+        "url": "https://api.hh.ru/employers/5830953",
+        "alternate_url": "https://hh.ru/employer/5830953",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5830953",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3087182",
+        "name": "Custom-IT",
+        "url": "https://api.hh.ru/employers/3087182",
+        "alternate_url": "https://hh.ru/employer/3087182",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/684364.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3178589.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3178588.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3087182",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4930206",
+        "name": "CUT IT ALL",
+        "url": "https://api.hh.ru/employers/4930206",
+        "alternate_url": "https://hh.ru/employer/4930206",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4930206",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9838536",
+        "name": "Cyber-IT",
+        "url": "https://api.hh.ru/employers/9838536",
+        "alternate_url": "https://hh.ru/employer/9838536",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1096477.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6006530.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6006529.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9838536",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3989185",
+        "name": "DaBro it мастерская",
+        "url": "https://api.hh.ru/employers/3989185",
+        "alternate_url": "https://hh.ru/employer/3989185",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1256668.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6647003.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6647002.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3989185",
+        "open_vacancies": 1
+    },
+    {
+        "id": "8965731",
+        "name": "Da&Ru Art IT",
+        "url": "https://api.hh.ru/employers/8965731",
+        "alternate_url": "https://hh.ru/employer/8965731",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8965731",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1918903",
+        "name": "Decart IT-production",
+        "url": "https://api.hh.ru/employers/1918903",
+        "alternate_url": "https://hh.ru/employer/1918903",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/685923.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3184825.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3184824.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1918903",
+        "open_vacancies": 16
+    },
+    {
+        "id": "1400081",
+        "name": "Delta IT",
+        "url": "https://api.hh.ru/employers/1400081",
+        "alternate_url": "https://hh.ru/employer/1400081",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1400081",
+        "open_vacancies": 0
+    },
+    {
+        "id": "18071",
+        "name": "DESPORT",
+        "url": "https://api.hh.ru/employers/18071",
+        "alternate_url": "https://hh.ru/employer/18071",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1263733.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6675259.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6675258.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=18071",
+        "open_vacancies": 68
+    },
+    {
+        "id": "5880667",
+        "name": "Develop Team IT",
+        "url": "https://api.hh.ru/employers/5880667",
+        "alternate_url": "https://hh.ru/employer/5880667",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5880667",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9888882",
+        "name": "Digen-IT",
+        "url": "https://api.hh.ru/employers/9888882",
+        "alternate_url": "https://hh.ru/employer/9888882",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1104017.PNG",
+            "240": "https://img.hhcdn.ru/employer-logo/6036678.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6036677.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9888882",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3113129",
+        "name": "Digital IT services",
+        "url": "https://api.hh.ru/employers/3113129",
+        "alternate_url": "https://hh.ru/employer/3113129",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3113129",
+        "open_vacancies": 0
+    },
+    {
+        "id": "928118",
+        "name": "Discover IT",
+        "url": "https://api.hh.ru/employers/928118",
+        "alternate_url": "https://hh.ru/employer/928118",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/110622.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/617952.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/617951.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=928118",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5518161",
+        "name": "D-İT",
+        "url": "https://api.hh.ru/employers/5518161",
+        "alternate_url": "https://hh.ru/employer/5518161",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5518161",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3634009",
+        "name": "Dlux It Outsourcing",
+        "url": "https://api.hh.ru/employers/3634009",
+        "alternate_url": "https://hh.ru/employer/3634009",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3634009",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9069926",
+        "name": "DM IT GROUP",
+        "url": "https://api.hh.ru/employers/9069926",
+        "alternate_url": "https://hh.ru/employer/9069926",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9069926",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9487161",
+        "name": "DM It System",
+        "url": "https://api.hh.ru/employers/9487161",
+        "alternate_url": "https://hh.ru/employer/9487161",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9487161",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2272180",
+        "name": "DOFF IT",
+        "url": "https://api.hh.ru/employers/2272180",
+        "alternate_url": "https://hh.ru/employer/2272180",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/324817.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1741623.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1741622.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2272180",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9688823",
+        "name": "Do it",
+        "url": "https://api.hh.ru/employers/9688823",
+        "alternate_url": "https://hh.ru/employer/9688823",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9688823",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4878107",
+        "name": "Do It Evolution",
+        "url": "https://api.hh.ru/employers/4878107",
+        "alternate_url": "https://hh.ru/employer/4878107",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4878107",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1024468",
+        "name": "do-it.kz",
+        "url": "https://api.hh.ru/employers/1024468",
+        "alternate_url": "https://hh.ru/employer/1024468",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1024468",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11147022",
+        "name": "Done IT",
+        "url": "https://api.hh.ru/employers/11147022",
+        "alternate_url": "https://hh.ru/employer/11147022",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11147022",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6173292",
+        "name": "Dream IT ES",
+        "url": "https://api.hh.ru/employers/6173292",
+        "alternate_url": "https://hh.ru/employer/6173292",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6173292",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9199282",
+        "name": "Drenix IT center",
+        "url": "https://api.hh.ru/employers/9199282",
+        "alternate_url": "https://hh.ru/employer/9199282",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9199282",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3244906",
+        "name": "Drink it",
+        "url": "https://api.hh.ru/employers/3244906",
+        "alternate_url": "https://hh.ru/employer/3244906",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/885468.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3982572.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3982571.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3244906",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4566592",
+        "name": "Drink it",
+        "url": "https://api.hh.ru/employers/4566592",
+        "alternate_url": "https://hh.ru/employer/4566592",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/751408.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/3446594.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3446593.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4566592",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5676685",
+        "name": "Duck it (ИП Аккуратов Александр Юрьевич)",
+        "url": "https://api.hh.ru/employers/5676685",
+        "alternate_url": "https://hh.ru/employer/5676685",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/883627.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3975208.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3975207.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5676685",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9715324",
+        "name": "Duck it (ИП Нерсесьян Роман Георгиевич)",
+        "url": "https://api.hh.ru/employers/9715324",
+        "alternate_url": "https://hh.ru/employer/9715324",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1080734.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/5943566.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5943565.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9715324",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6066753",
+        "name": "EDK IT (И Ди Кей Ай Ти)",
+        "url": "https://api.hh.ru/employers/6066753",
+        "alternate_url": "https://hh.ru/employer/6066753",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6066753",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2961990",
+        "name": "E IT Services Co. Kazakhstan (И АйТи Сервисез Ко. Казахстан)",
+        "url": "https://api.hh.ru/employers/2961990",
+        "alternate_url": "https://hh.ru/employer/2961990",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/444668.png",
+            "240": "https://img.hhcdn.ru/employer-logo/2220640.png",
+            "90": "https://img.hhcdn.ru/employer-logo/2220639.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2961990",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10015890",
+        "name": "( ELINEXT ) ELINEXT IT SOLUTIONS LIMITED.",
+        "url": "https://api.hh.ru/employers/10015890",
+        "alternate_url": "https://hh.ru/employer/10015890",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1128511.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6134634.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6134633.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10015890",
+        "open_vacancies": 4
+    },
+    {
+        "id": "719927",
+        "name": "Enjoy IT",
+        "url": "https://api.hh.ru/employers/719927",
+        "alternate_url": "https://hh.ru/employer/719927",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/147121.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/493037.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/493036.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=719927",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11048638",
+        "name": "Equip-it",
+        "url": "https://api.hh.ru/employers/11048638",
+        "alternate_url": "https://hh.ru/employer/11048638",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11048638",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10898758",
+        "name": "ESKIZ IT-COMPANY",
+        "url": "https://api.hh.ru/employers/10898758",
+        "alternate_url": "https://hh.ru/employer/10898758",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10898758",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11197370",
+        "name": "ETAMIN IT SOLUTIONS",
+        "url": "https://api.hh.ru/employers/11197370",
+        "alternate_url": "https://hh.ru/employer/11197370",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11197370",
+        "open_vacancies": 1
+    },
+    {
+        "id": "58261",
+        "name": "eTest IT, Inc.",
+        "url": "https://api.hh.ru/employers/58261",
+        "alternate_url": "https://hh.ru/employer/58261",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/219032.png",
+            "240": "https://img.hhcdn.ru/employer-logo/487193.png",
+            "90": "https://img.hhcdn.ru/employer-logo/487192.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=58261",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9407141",
+        "name": "Evolution IT Group",
+        "url": "https://api.hh.ru/employers/9407141",
+        "alternate_url": "https://hh.ru/employer/9407141",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1048960.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5816494.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5816493.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9407141",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10452174",
+        "name": "EXCELLENT IT",
+        "url": "https://api.hh.ru/employers/10452174",
+        "alternate_url": "https://hh.ru/employer/10452174",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1238967.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6576302.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6576301.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10452174",
+        "open_vacancies": 1
+    },
+    {
+        "id": "3407981",
+        "name": "Expera Digital It Consulting",
+        "url": "https://api.hh.ru/employers/3407981",
+        "alternate_url": "https://hh.ru/employer/3407981",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/736102.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3385386.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3385385.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3407981",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1303029",
+        "name": "Experis IT",
+        "url": "https://api.hh.ru/employers/1303029",
+        "alternate_url": "https://hh.ru/employer/1303029",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1303029",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2503028",
+        "name": "Extra-IT GmbH",
+        "url": "https://api.hh.ru/employers/2503028",
+        "alternate_url": "https://hh.ru/employer/2503028",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2503028",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1178077",
+        "name": "F5it",
+        "url": "https://api.hh.ru/employers/1178077",
+        "alternate_url": "https://hh.ru/employer/1178077",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1022389.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5710325.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5710324.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1178077",
+        "open_vacancies": 9
+    },
+    {
+        "id": "4757002",
+        "name": "FaBula-IT",
+        "url": "https://api.hh.ru/employers/4757002",
+        "alternate_url": "https://hh.ru/employer/4757002",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4757002",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10689102",
+        "name": "FAKTORIAL IT",
+        "url": "https://api.hh.ru/employers/10689102",
+        "alternate_url": "https://hh.ru/employer/10689102",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1218173.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6493134.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6493133.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10689102",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4606",
+        "name": "Familia",
+        "url": "https://api.hh.ru/employers/4606",
+        "alternate_url": "https://hh.ru/employer/4606",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1283292.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6753467.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6753466.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4606",
+        "open_vacancies": 915
+    },
+    {
+        "id": "9066563",
+        "name": "Fastech IT Academy (OOO “FASTECHNIKA”)",
+        "url": "https://api.hh.ru/employers/9066563",
+        "alternate_url": "https://hh.ru/employer/9066563",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/990431.png",
+            "240": "https://img.hhcdn.ru/employer-logo/5582529.png",
+            "90": "https://img.hhcdn.ru/employer-logo/5582528.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9066563",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6048967",
+        "name": "Fast IT2b",
+        "url": "https://api.hh.ru/employers/6048967",
+        "alternate_url": "https://hh.ru/employer/6048967",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/946967.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4228405.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4228404.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6048967",
+        "open_vacancies": 0
+    },
+    {
+        "id": "175066",
+        "name": "FastLane, IT тренинг и консалтинг",
+        "url": "https://api.hh.ru/employers/175066",
+        "alternate_url": "https://hh.ru/employer/175066",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/196510.png",
+            "240": "https://img.hhcdn.ru/employer-logo/906402.png",
+            "90": "https://img.hhcdn.ru/employer-logo/906401.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=175066",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9077977",
+        "name": "Favorite IT",
+        "url": "https://api.hh.ru/employers/9077977",
+        "alternate_url": "https://hh.ru/employer/9077977",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/992001.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/5588809.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5588808.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9077977",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10131351",
+        "name": "Feelin IT",
+        "url": "https://api.hh.ru/employers/10131351",
+        "alternate_url": "https://hh.ru/employer/10131351",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1142546.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6190758.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6190757.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10131351",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10830964",
+        "name": "Felix IT Solutions",
+        "url": "https://api.hh.ru/employers/10830964",
+        "alternate_url": "https://hh.ru/employer/10830964",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10830964",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4774817",
+        "name": "FERRUM IT Group",
+        "url": "https://api.hh.ru/employers/4774817",
+        "alternate_url": "https://hh.ru/employer/4774817",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1265767.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6683395.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6683394.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4774817",
+        "open_vacancies": 5
+    },
+    {
+        "id": "9553307",
+        "name": "Fitness IT",
+        "url": "https://api.hh.ru/employers/9553307",
+        "alternate_url": "https://hh.ru/employer/9553307",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9553307",
+        "open_vacancies": 1
+    },
+    {
+        "id": "2255078",
+        "name": "FIX IT LAB (ИП Букин М.И.)",
+        "url": "https://api.hh.ru/employers/2255078",
+        "alternate_url": "https://hh.ru/employer/2255078",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/321378.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1727879.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1727878.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2255078",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1486312",
+        "name": "Fix iT Service",
+        "url": "https://api.hh.ru/employers/1486312",
+        "alternate_url": "https://hh.ru/employer/1486312",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/859883.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3880408.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3880407.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1486312",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5107504",
+        "name": "FIX IT TRADE",
+        "url": "https://api.hh.ru/employers/5107504",
+        "alternate_url": "https://hh.ru/employer/5107504",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5107504",
+        "open_vacancies": 0
+    },
+    {
+        "id": "196621",
+        "name": "FIX PRICE",
+        "url": "https://api.hh.ru/employers/196621",
+        "alternate_url": "https://hh.ru/employer/196621",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1254084.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6636766.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6636765.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=196621",
+        "open_vacancies": 5402
+    },
+    {
+        "id": "5958173",
+        "name": "FULL STACK IT (ФУЛ СТЭК АЙТИ)",
+        "url": "https://api.hh.ru/employers/5958173",
+        "alternate_url": "https://hh.ru/employer/5958173",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/927433.png",
+            "240": "https://img.hhcdn.ru/employer-logo/4150293.png",
+            "90": "https://img.hhcdn.ru/employer-logo/4150292.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5958173",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5395692",
+        "name": "Future-IT",
+        "url": "https://api.hh.ru/employers/5395692",
+        "alternate_url": "https://hh.ru/employer/5395692",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1142272.png",
+            "240": "https://img.hhcdn.ru/employer-logo/6189662.png",
+            "90": "https://img.hhcdn.ru/employer-logo/6189661.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5395692",
+        "open_vacancies": 0
+    },
+    {
+        "id": "1489797",
+        "name": "Future IT Solutions",
+        "url": "https://api.hh.ru/employers/1489797",
+        "alternate_url": "https://hh.ru/employer/1489797",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1152434.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6230195.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6230194.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1489797",
+        "open_vacancies": 4
+    },
+    {
+        "id": "6035867",
+        "name": "GD-IT",
+        "url": "https://api.hh.ru/employers/6035867",
+        "alternate_url": "https://hh.ru/employer/6035867",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6035867",
+        "open_vacancies": 0
+    },
+    {
+        "id": "9815300",
+        "name": "General iT",
+        "url": "https://api.hh.ru/employers/9815300",
+        "alternate_url": "https://hh.ru/employer/9815300",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1093258.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/5993654.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/5993653.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9815300",
+        "open_vacancies": 2
+    },
+    {
+        "id": "10898649",
+        "name": "Generation IT",
+        "url": "https://api.hh.ru/employers/10898649",
+        "alternate_url": "https://hh.ru/employer/10898649",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1254474.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/6638326.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6638325.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10898649",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3203409",
+        "name": "GES IT",
+        "url": "https://api.hh.ru/employers/3203409",
+        "alternate_url": "https://hh.ru/employer/3203409",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3203409",
+        "open_vacancies": 0
+    },
+    {
+        "id": "11229328",
+        "name": "Get it school",
+        "url": "https://api.hh.ru/employers/11229328",
+        "alternate_url": "https://hh.ru/employer/11229328",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11229328",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3629857",
+        "name": "G-it",
+        "url": "https://api.hh.ru/employers/3629857",
+        "alternate_url": "https://hh.ru/employer/3629857",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3629857",
+        "open_vacancies": 0
+    },
+    {
+        "id": "973661",
+        "name": "Global IT Solutions",
+        "url": "https://api.hh.ru/employers/973661",
+        "alternate_url": "https://hh.ru/employer/973661",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/102215.png",
+            "240": "https://img.hhcdn.ru/employer-logo/651969.png",
+            "90": "https://img.hhcdn.ru/employer-logo/651968.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=973661",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10742803",
+        "name": "GLOBAL IT TECHNOLOGIES",
+        "url": "https://api.hh.ru/employers/10742803",
+        "alternate_url": "https://hh.ru/employer/10742803",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10742803",
+        "open_vacancies": 0
+    },
+    {
+        "id": "6144497",
+        "name": "Globe-IT",
+        "url": "https://api.hh.ru/employers/6144497",
+        "alternate_url": "https://hh.ru/employer/6144497",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/956773.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/4267621.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/4267620.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6144497",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3276850",
+        "name": "GOLD Standard IT",
+        "url": "https://api.hh.ru/employers/3276850",
+        "alternate_url": "https://hh.ru/employer/3276850",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/582213.jpg",
+            "240": "https://img.hhcdn.ru/employer-logo/2770108.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/2770107.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3276850",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4035181",
+        "name": "GOOD IT SERVICE",
+        "url": "https://api.hh.ru/employers/4035181",
+        "alternate_url": "https://hh.ru/employer/4035181",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4035181",
+        "open_vacancies": 0
+    },
+    {
+        "id": "10767072",
+        "name": "Got It Bureau",
+        "url": "https://api.hh.ru/employers/10767072",
+        "alternate_url": "https://hh.ru/employer/10767072",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10767072",
+        "open_vacancies": 0
+    },
+    {
+        "id": "4799328",
+        "name": "Go To IT TEAM",
+        "url": "https://api.hh.ru/employers/4799328",
+        "alternate_url": "https://hh.ru/employer/4799328",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/889434.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/3998428.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/3998427.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4799328",
+        "open_vacancies": 1
+    },
+    {
+        "id": "1223565",
+        "name": "Graf-it",
+        "url": "https://api.hh.ru/employers/1223565",
+        "alternate_url": "https://hh.ru/employer/1223565",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/117198.png",
+            "240": "https://img.hhcdn.ru/employer-logo/1251285.png",
+            "90": "https://img.hhcdn.ru/employer-logo/1251284.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1223565",
+        "open_vacancies": 0
+    },
+    {
+        "id": "2489601",
+        "name": "GREEN IT",
+        "url": "https://api.hh.ru/employers/2489601",
+        "alternate_url": "https://hh.ru/employer/2489601",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/818139.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3713444.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3713443.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2489601",
+        "open_vacancies": 0
+    },
+    {
+        "id": "3128934",
+        "name": "GrossArea, IT компания",
+        "url": "https://api.hh.ru/employers/3128934",
+        "alternate_url": "https://hh.ru/employer/3128934",
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/749579.png",
+            "240": "https://img.hhcdn.ru/employer-logo/3439278.png",
+            "90": "https://img.hhcdn.ru/employer-logo/3439277.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3128934",
+        "open_vacancies": 0
+    },
+    {
+        "id": "5431516",
+        "name": "“Grou It Distribution”",
+        "url": "https://api.hh.ru/employers/5431516",
+        "alternate_url": "https://hh.ru/employer/5431516",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5431516",
+        "open_vacancies": 0
+    }
+]
