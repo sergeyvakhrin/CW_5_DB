@@ -101,17 +101,20 @@ class DataBaseWorker:
 
     def insert_table_vac(self, emp_vacancies: list) -> None:
         """ Заполняет таблицу вакансий """
-        cur = self.conn.cursor()
-        for vacancy in emp_vacancies:
-            if self.check_in_base(vacancy):
-                cur.execute(f"UPDATE vacancy SET name='{vacancy.name}', requirement='{vacancy.requirement}', responsibility='{vacancy.responsibility}', url='{vacancy.link}', salary_from='{vacancy.salary_from}', salary_to='{vacancy.salary_to}' WHERE hh_id='{vacancy.hh_id}'")
-                continue # TODO: можно реализовать метод обновления данных о вакансии с подстановкой даты обновления
-            else:
-                cur.executemany(
-                    "INSERT INTO vacancy (employer_id, hh_id, name, requirement, responsibility, url, salary_from, salary_to) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
-                    [(vacancy.employee_sql_id, vacancy.hh_id, vacancy.name, vacancy.requirement, vacancy.responsibility,
-                      vacancy.link, vacancy.salary_from, vacancy.salary_to)])
-        self.conn.commit()
+        if isinstance(emp_vacancies, list) and len(emp_vacancies) > 0:
+            cur = self.conn.cursor()
+            for vacancy in emp_vacancies:
+                if self.check_in_base(vacancy):
+                    cur.execute(f"UPDATE vacancy SET name='{vacancy.name}', requirement='{vacancy.requirement}', responsibility='{vacancy.responsibility}', url='{vacancy.link}', salary_from='{vacancy.salary_from}', salary_to='{vacancy.salary_to}' WHERE hh_id='{vacancy.hh_id}'")
+                    continue # TODO: можно реализовать метод обновления данных о вакансии с подстановкой даты обновления
+                else:
+                    cur.executemany(
+                        "INSERT INTO vacancy (employer_id, hh_id, name, requirement, responsibility, url, salary_from, salary_to) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
+                        [(vacancy.employee_sql_id, vacancy.hh_id, vacancy.name, vacancy.requirement, vacancy.responsibility,
+                          vacancy.link, vacancy.salary_from, vacancy.salary_to)])
+            self.conn.commit()
+        else:
+            return
 
     def get_top_ten_employee(self):
         """ Получаем 10 работодателей """
