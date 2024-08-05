@@ -1,25 +1,56 @@
 import pytest
 
-from src.classes.dbworker import Employee
 from src.classes.vacancy import Vacancy
 
 
 @pytest.fixture
-def employer_list():
-    return [
-        Employee(employee_id="1", name="1", url="1", alternate_url="1", vacancies_url="1", open_vacancies=1),
-        Employee(employee_id="2", name="2", url="2", alternate_url="2", vacancies_url="2", open_vacancies=2),
-        Employee(employee_id="3", name="3", url="3", alternate_url="3", vacancies_url="3", open_vacancies=3)
-    ]
+def employer():
+    return {"hh_id": "1", "name": "1", "url": "1", "alternate_url": "1", "vacancies_url": "1", "open_vacancies": 1,
+            "vacancies": [1]}
 
 
 @pytest.fixture
-def vacancies_list():
-    return [
-        Vacancy(employee_id="1", vacancy_id="1", name="1", requirement="1", responsibility="1", link="1", salary_from=1,
-                salary_to=1),
-        Vacancy(employee_id="2", vacancy_id="2", name="2", requirement="2", responsibility="2", link="2", salary_from=2,
-                salary_to=2),
-        Vacancy(employee_id="3", vacancy_id="3", name="3", requirement="3", responsibility="3", link="3", salary_from=3,
-                salary_to=3)
-    ]
+def vacancy():
+    return {'employee_sql_id': 1, 'employee_id': "1", 'hh_id': "1", 'name': "1", 'requirement': "1",
+            'responsibility': "1", 'link': "1", 'salary_from': 1, 'salary_to': 1}
+
+
+@pytest.fixture
+def data_none():
+    return
+
+
+@pytest.fixture
+def data_digit():
+    return 1
+
+
+@pytest.fixture
+def data_tuple():
+    return ()
+
+
+@pytest.fixture
+def emp_tuple_none():
+    return
+
+
+@pytest.fixture
+def emp_tuple_digit():
+    return 1
+
+
+@pytest.fixture
+def emp_tuple_tuple():
+    return ()
+
+
+@pytest.fixture
+def emp_tuple():
+    return 1, '1', '1'
+
+
+@pytest.fixture
+def data_vac():
+    return [{"employee_sql_id": 1, "employee_id": '1', "id": '1', "name": '1', "snippet": {"requirement": '1',
+                               "responsibility": '1'}, "alternate_url": '1', "salary": {"from": 1, "to": 1}}]
