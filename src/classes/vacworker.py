@@ -50,10 +50,13 @@ class VacWorker:
 # vac = VacWorker()
 # list_vac = vac.get_vacancies(
 #                     (1, '1', '1'),
-#                     [{"employee_sql_id": 1, "employee_id": '1', "id": '1', "name": '1', "requirement": '1',
-#                                "responsibility": '1', "link": '1', "salary_from": 1, "salary_to": 1}])
+#                     [{"employee_sql_id": 1, "employee_id": '1', "id": '1', "name": '1', "snippet": {"requirement": '1',
+#                                "responsibility": '1'}, "alternate_url": '1', "salary": {"from": 1, "to": 1}}])
+# list_vac2 = vac.get_vacancies(
+#                     (1, 1, 1),
+#                     [])
 #
-# print(list_vac)
-# print(len(list_vac))
-# print(type(list_vac))
+# print(list_vac2)
+# print(len(list_vac2))
+# print(type(list_vac2))
 

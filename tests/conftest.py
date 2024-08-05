@@ -52,5 +52,5 @@ def emp_tuple():
 
 @pytest.fixture
 def data_vac():
-    return [{"employee_sql_id": 1, "employee_id": '1', "id": '1', "name": '1', "requirement": '1',
-            "responsibility": '1', "link": '1', "salary_from": 1, "salary_to": 1}]
+    return [{"employee_sql_id": 1, "employee_id": '1', "id": '1', "name": '1', "snippet": {"requirement": '1',
+                               "responsibility": '1'}, "alternate_url": '1', "salary": {"from": 1, "to": 1}}]

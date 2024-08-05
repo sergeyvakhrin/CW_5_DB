@@ -76,7 +76,7 @@
             "url": "https://hh.ru/interview/32978?employerId=78638"
         },
         "url": "https://api.hh.ru/vacancies/104901096?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/104901096",
+        "ralternate_ul": "https://hh.ru/vacancy/104901096",
         "relations": [],
         "employer": {
             "id": "78638",
