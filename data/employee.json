@@ -287,7 +287,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/3307568.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4494976",
-        "open_vacancies": 2
+        "open_vacancies": 3
     },
     {
         "id": "766478",
@@ -405,7 +405,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/3602255.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1763330",
-        "open_vacancies": 7
+        "open_vacancies": 6
     },
     {
         "id": "5926815",
@@ -594,7 +594,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/5985473.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2667859",
-        "open_vacancies": 1
+        "open_vacancies": 0
     },
     {
         "id": "4053700",
@@ -901,7 +901,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/3480509.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=866666",
-        "open_vacancies": 261
+        "open_vacancies": 264
     },
     {
         "id": "4777264",
@@ -1023,7 +1023,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/3898515.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=80660",
-        "open_vacancies": 135
+        "open_vacancies": 133
     },
     {
         "id": "4610731",
@@ -1295,9 +1295,13 @@
         "name": "Color IT художественная мастерская",
         "url": "https://api.hh.ru/employers/11294953",
         "alternate_url": "https://hh.ru/employer/11294953",
-        "logo_urls": null,
+        "logo_urls": {
+            "original": "https://img.hhcdn.ru/employer-logo-original/1310033.jpeg",
+            "240": "https://img.hhcdn.ru/employer-logo/6860391.jpeg",
+            "90": "https://img.hhcdn.ru/employer-logo/6860390.jpeg"
+        },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11294953",
-        "open_vacancies": 0
+        "open_vacancies": 1
     },
     {
         "id": "807894",
@@ -1473,7 +1477,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/6675258.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=18071",
-        "open_vacancies": 68
+        "open_vacancies": 73
     },
     {
         "id": "5880667",
@@ -1865,7 +1869,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/6753466.png"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4606",
-        "open_vacancies": 915
+        "open_vacancies": 910
     },
     {
         "id": "9066563",
@@ -2009,7 +2013,7 @@
             "90": "https://img.hhcdn.ru/employer-logo/6636765.jpeg"
         },
         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=196621",
-        "open_vacancies": 5405
+        "open_vacancies": 5529
     },
     {
         "id": "5958173",
